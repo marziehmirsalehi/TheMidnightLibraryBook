@@ -5,7 +5,6 @@
 ---
 
 ### 🌐 دموی آنلاین (Live Demo)
-برای مشاهده اجرای زنده پروژه روی لینک زیر کلیک کنید:  
 👉 **[Live Demo](https://marziehmirsalehi.github.io/TheMidnightLibraryBook/)**
 
 ---
